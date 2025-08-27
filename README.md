@@ -6,6 +6,10 @@ Machine Learning Project On Momentum Dynamics in Tennis Matches
 
 This repository contains the implementation of a tennis match analysis system using machine learning.
 
+## Project Resouces
+- 📄 [Project Report](https://drive.google.com/file/d/1Rz4xnJHuaMwAzgMXKpGDxrdwa4Njo0sP/view?usp=drive_link)
+- 🎥 [Demo Video](https://www.youtube.com/watch?v=AHEPdfK5ez4)
+
 ## Project Structure
 
 ```
@@ -38,6 +42,8 @@ This repository contains the implementation of a tennis match analysis system us
 ## Dataset
 
 The training dataset is located in the `train/wimbledon_2011_cleaned.csv` directory. Please ensure you have the required data before running the training script.
+
+
 
 ## Dependencies
 
